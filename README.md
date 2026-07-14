@@ -74,3 +74,37 @@ June:
 
 _Insight: Military-related professions demonstrate the highest competition level, with a large number of job seekers competing for available vacancies._
 
+### Labour shortage analys
+The greatest labour shortage in occupations such as:
+Jan - May:
+- Skilled Workers With Tool;
+- Motor Vehicle Driver;
+- Trucker;
+- Janitor;
+- Barista
+
+June:
+- Skilled Workers With Tool;
+- Trucker;
+- Electrical fitter for repair and maintenance of electrical equipment;
+- Locksmith-Plumber;
+- Electric gas welder
+
+_Insight: In occupations with the highest labor shortages (high vacancy volume), a large share of job seekers are unemployed, often exceeding 50%. This indicates that despite strong demand, available candidates are not being absorbed into the labor market. This imbalance suggests a mismatch between labor supply and demand, where the presence of job seekers does not translate into successful employment._
+
+Labor Oversupply in occupations such as:
+Jan - May:
+- Employees of the Trade and Services Sector;
+- Specialists;
+- Legislators, Senior Civil Servants, Managers, Managers;
+- Professionals;
+- Technical Servants;
+- The simplest professions;
+
+June:
+- Employees of the Trade and Services Sector
+- The simplest professions
+- Specialists
+- Technical Servants
+- Legislators, Senior Civil Servants, Managers, Managers (Managers)
+
