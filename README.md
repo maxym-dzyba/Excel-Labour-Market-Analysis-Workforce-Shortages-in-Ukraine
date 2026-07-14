@@ -29,4 +29,5 @@ Peak Job Demand (Maximum Number of Vacancies): Trade and service workers; The si
 
 Peak Candidate Supply (Maximum Number of Job Seekers): Trade and service workers; Persons without a profession(not unemplomened, but candidates who are looking for any specific job); The simplest professions; Workers in maintenance, operation and control over the operation of technological equipment, assembly of equipment and machines; Specialists; Professionals; Skilled workers with tool; Legislators, senior civil servants, managers; Technical employees
 
+_Information for both periods of Jan-May and June_
 _Insight: Professions with the highest demand (number of vacancies) also attract the largest supply of job seekers_
