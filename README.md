@@ -19,7 +19,8 @@ There are next columns in the table:
 - In profession column text starts with space. Decision is to Trim it.
 - The category "People with no profession" contains missing values ("X") in vacancy fields. These values were treated as unavailable data rather than zero.
 - Replaced "X" values with null to preserve missing information and avoid incorrect numerical calculations.
-- Added new columns for better analyse: Number of seekers for 1 vacancy(for both periods of Jan-May and June), unemployment percentage (for both periods), personnel shortage (for both periods), change of personnel shortage, Change of number of seekers for 1 vacancy (2 columns with percentage and number change values)
+- Added new columns for better analyse: Number of seekers for 1 vacancy(for both periods of Jan-May and June), unemployment percentage (for both periods), personnel shortage (for both periods), change of personnel shortage, Change of number of seekers for 1 vacancy (2 columns with percentage and number change values), current status of personnel shortage and status of personnel shortage(trend) (in last 2 columns values strong staff surplus; moderate surplus; balance; moderate deficit; 
+strong deficiency added)
 
 _Profession Code was not used as a unique identifier because multiple professions can share the same code._
 ## Analysis
