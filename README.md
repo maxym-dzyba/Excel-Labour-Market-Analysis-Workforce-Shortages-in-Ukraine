@@ -38,7 +38,8 @@ Peak Job Demand (Maximum Number of Vacancies):
 - The simplest professions;
 - Skilled workers with tool;
 - Workers in maintenance, operation and control over the operation of technological equipment, assembly of equipment and machines;
-- Professionals; Specialists
+- Professionals;
+- Specialists
 
 Peak Candidate Supply (Maximum Number of Job Seekers): 
 - Trade and service workers;
