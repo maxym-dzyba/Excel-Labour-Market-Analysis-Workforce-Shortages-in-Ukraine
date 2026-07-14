@@ -40,5 +40,5 @@ June:
 Shooter; Heater; Machine gunner Branch commander; Seller (On the Market); Radiotelephone operator
 
 
-_Insight: Most of jobseekers who are looking for job in army professions are unemployed_
+_Insight: Military-related professions demonstrate the highest competition level, with a large number of job seekers competing for available vacancies._
 
