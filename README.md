@@ -14,6 +14,14 @@ There are next columns in the table:
 - Number of vacancies (data for June of 2026)
 - Number of jobseekers (data for June of 2026)
 - Jobseekers who had the status of unemployed (data for June of 2026)
+
+| Metric | January-May | June |
+|--------|-------------|------|
+| Vacancies | 417,509 | 122,706 |
+| Job seekers | 632,583 | 266,476 |
+| Competition ratio | 1.57 | 1,25 |
+| Unemployment seekers | 394,052 | 186,865 |
+
 ## Data Cleaning (Power Query)
 - Identified 4 duplicate records based on Profession and Profession Code. Removed duplicates to prevent double counting during aggregation.
 - In profession column text starts with space. Decision is to Trim it.
