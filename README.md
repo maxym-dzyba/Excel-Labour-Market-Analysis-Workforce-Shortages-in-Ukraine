@@ -33,7 +33,12 @@ _Information for both periods of Jan-May and June_
 
 _Insight: Professions with the highest demand (number of vacancies) also attract the largest supply of job seekers_
 
-Competition Level (Job Seekers per Vacancy): Shooter; Machine gunner; Director (Head) of the Small Trading Firm; Philologist; Radiotelephone operator
+Competition Level (Job Seekers per Vacancy): 
+Jan - May:
+Shooter; Machine gunner; Director (Head) of the Small Trading Firm; Philologist; Radiotelephone operator
+June:
+Shooter; Heater; Machine gunner Branch commander; Seller (On the Market); Radiotelephone operator
+
 
 _Insight: Most of jobseekers who are looking for job in army professions are unemployed_
 
