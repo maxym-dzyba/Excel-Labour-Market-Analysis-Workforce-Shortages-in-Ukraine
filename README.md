@@ -32,3 +32,8 @@ Peak Candidate Supply (Maximum Number of Job Seekers): Trade and service workers
 _Information for both periods of Jan-May and June_
 
 _Insight: Professions with the highest demand (number of vacancies) also attract the largest supply of job seekers_
+
+Competition Level (Job Seekers per Vacancy): Shooter; Machine gunner; Director (Head) of the Small Trading Firm; Philologist; Radiotelephone operator
+
+_Insight: Most of jobseekers who are looking for job in army professions are unemployed_
+
