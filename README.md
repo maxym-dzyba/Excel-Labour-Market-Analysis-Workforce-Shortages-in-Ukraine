@@ -34,43 +34,32 @@ _Profession Code was not used as a unique identifier because multiple profession
 ## Analysis
 ### Labor Market Supply & Demand Analysis
 Peak Job Demand (Maximum Number of Vacancies): 
-- Trade and service workers;
-- The simplest professions;
-- Skilled workers with tool;
-- Workers in maintenance, operation and control over the operation of technological equipment, assembly of equipment and machines;
-- Professionals;
-- Specialists
+The highest number of vacancies is concentrated in broad occupational groups, primarily:
+- Trade and service workers
+- Elementary occupations
+- Skilled workers with tools
+- Machine operators and assemblers
+- Professionals and specialists
 
 Peak Candidate Supply (Maximum Number of Job Seekers): 
-- Trade and service workers;
-- Persons without a profession(not unemplomened, but candidates who are looking for any specific job);
-- The simplest professions;
-- Workers in maintenance, operation and control over the operation of technological equipment, assembly of equipment and machines;
-- Specialists;
-- Professionals;
-- Skilled workers with tool;
-- Legislators, senior civil servants, managers;
-- Technical employees
+The largest number of job seekers is observed in similar occupational groups:
+- Trade and service workers
+- Individuals without a specific profession
+- Elementary occupations
+- Machine operators and assemblers
+- Professionals and specialists
+
+Additionally, higher-level roles such as managers and technical staff also show notable candidate supply.
 
 _Information for both periods of Jan-May and June_
 
 _Insight: Professions with the highest demand (number of vacancies) also attract the largest supply of job seekers_
 
 Competition Level (Job Seekers per Vacancy): 
+The highest competition levels are consistently observed in a small group of professions across both periods.
 
-Jan - May:
-- Shooter;
-- Machine gunner;
-- Director (Head) of the Small Trading Firm;
-- Philologist;
-- Radiotelephone operator
-
-June:
-- Shooter;
-- Heater;
-- Machine gunner Branch commander;
-- Seller (On the Market);
-- Radiotelephone operator
+January–May: dominated by military and specialized roles
+June: similar pattern, with military-related and low-barrier entry jobs remaining highly competitive
 
 _Insight: Military-related professions demonstrate the highest competition level, with a large number of job seekers competing for available vacancies._
 
@@ -92,19 +81,14 @@ June:
 
 _Insight: In occupations with the highest labor shortages (high vacancy volume), a large share of job seekers are unemployed, often exceeding 50%. This indicates that despite strong demand, available candidates are not being absorbed into the labor market. This imbalance suggests a mismatch between labor supply and demand, where the presence of job seekers does not translate into successful employment._
 
-Labor Oversupply in occupations such as:
-Jan - May:
-- Employees of the Trade and Services Sector;
-- Specialists;
-- Legislators, Senior Civil Servants, Managers, Managers;
-- Professionals;
-- Technical Servants;
-- The simplest professions;
+Labor oversupply is most evident in large occupational groups such as:
+- Trade and service sector employees
+- Elementary occupations
+- Specialists and professionals
+- Administrative and technical staff
+- Managers and senior officials
 
-June:
-- Employees of the Trade and Services Sector
-- The simplest professions
-- Specialists
-- Technical Servants
-- Legislators, Senior Civil Servants, Managers, Managers (Managers)
-
+Labor Market Dynamics: Supply–Demand Balance and Trends (Jan-May and June analys)
+The next professions may show imbalance:
+- Motor Vehicle Driver, Kitchen Worker, Stacker-Packer, Administrator, Landscaping worker, Watchman, Junior Medical Sister, Elementary occupations, Cleaning worker of the Service Premises - high risk of oversupply
+- Technician, Economist From Financial Work, Head of the Department, Stormtrooper, Economist, Teacher - high risk of deficit
