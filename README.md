@@ -90,6 +90,7 @@ Labor oversupply is most evident in large occupational groups such as:
 
 Labor Market Dynamics: Supply–Demand Balance and Trends (Jan-May and June analys)
 Most professions are formally in the balance zone, but a large part has a low volume of vacancies. The biggest imbalances are concentrated in professions with a high number of vacancies and a large number of candidates
+
 The next professions may show imbalance:
 - Motor Vehicle Driver, Kitchen Worker, Stacker-Packer, Administrator, Landscaping worker, Watchman, Junior Medical Sister, Elementary occupations, Cleaning worker of the Service Premises - high risk of oversupply
 - Technician, Economist From Financial Work, Head of the Department, Stormtrooper, Economist, Teacher - high risk of deficit
