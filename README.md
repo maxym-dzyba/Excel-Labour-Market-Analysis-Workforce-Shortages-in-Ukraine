@@ -22,6 +22,8 @@ There are next columns in the table:
 | Competition ratio | 1.57 | 1,25 |
 | Unemployment seekers | 394,052 | 186,865 |
 
+<img width="1282" height="566" alt="image" src="https://github.com/user-attachments/assets/b2b41d82-f1b6-4005-8761-11752e466e43" />
+
 ## Data Cleaning (Power Query)
 - Identified 4 duplicate records based on Profession and Profession Code. Removed duplicates to prevent double counting during aggregation.
 - In profession column text starts with space. Decision is to Trim it.
@@ -63,6 +65,8 @@ June: similar pattern, with military-related and low-barrier entry jobs remainin
 
 _Insight: Military-related professions demonstrate the highest competition level, with a large number of job seekers competing for available vacancies._
 
+<img width="1514" height="753" alt="image" src="https://github.com/user-attachments/assets/2ad99865-27de-430d-aebb-78d8f3868130" />
+
 ### Labour shortage analys
 The greatest labour shortage in occupations such as:
 Jan - May:
@@ -95,3 +99,6 @@ Most professions are formally in the balance zone, but a large part has a low vo
 The next professions may show imbalance:
 - Motor Vehicle Driver, Kitchen Worker, Stacker-Packer, Administrator, Landscaping worker, Watchman, Junior Medical Sister, Elementary occupations, Cleaning worker of the Service Premises - high risk of oversupply
 - Technician, Economist From Financial Work, Head of the Department, Stormtrooper, Economist, Teacher - high risk of deficit
+
+<img width="1423" height="732" alt="image" src="https://github.com/user-attachments/assets/56af0d37-4fcf-4c7f-8d38-3840717c613b" />
+
