@@ -102,3 +102,18 @@ The next professions may show imbalance:
 
 <img width="1423" height="732" alt="image" src="https://github.com/user-attachments/assets/56af0d37-4fcf-4c7f-8d38-3840717c613b" />
 
+## Key Findings
+
+- The Ukrainian labor market demonstrates a significant imbalance between labor supply and demand. While some professions experience a shortage of workers, many occupational groups have an oversupply of candidates, indicating that the availability of job seekers does not always match the needs of employers.
+
+- The highest demand is concentrated in skilled manual professions, drivers, machine operators, and technical occupations. These roles consistently show a large number of vacancies and remain among the most difficult positions to fill.
+
+- Military-related professions demonstrate one of the highest levels of competition among job seekers. Despite high demand for these occupations, they also have a large number of unemployed candidates searching for these positions. This may indicate that the presence of available candidates does not necessarily translate into successful employment due to possible requirements mismatch, limited available positions, qualification requirements, or other labor market barriers.
+
+- Professions with the highest number of vacancies often also have a significant number of unemployed job seekers. This suggests that the main labor market issue is not only a lack of candidates, but also a mismatch between employer requirements and available workforce skills.
+
+- Large occupational groups such as trade and service workers, elementary occupations, specialists, and administrative roles show signs of candidate oversupply. A high number of job seekers in these areas creates increased competition and may reduce the ability of candidates to find employment quickly.
+
+- The transition analysis between labor market states shows that many professions move from balance toward oversupply, which indicates increasing competition among candidates in certain segments of the market.
+
+- Improving employment outcomes requires not only increasing the number of available workers but also reducing the gap between employer expectations and candidate skills through professional training, reskilling programs, and better alignment between education and labor market needs.
